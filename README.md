@@ -1,2 +1,2 @@
 # X.B-INFO
-Itt sok minden van,amit lehet tobbet soha nem fogok megnezni.
+Good luck and have fun!
