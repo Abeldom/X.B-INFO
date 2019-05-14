@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1557816494 source:d:\abel\parossorok\main.cpp
+	<iostream>
+	<fstream>
+
